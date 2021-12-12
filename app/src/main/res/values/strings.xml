@@ -6,6 +6,18 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="TrueButton">Да</string>
+    <string name="FalseButton">Нет</string>
+    <string name="NextButton">Следующий вопрос</string>
+    <string name="PreviousButton">Предыдущий вопрос</string>
+    <string name="AnswerTrue">Ответ верный</string>
+    <string name="AnswerFalse">Ответ не верный</string>
+    <string name="QuestionsComplete">Опрос закончен!\nВаш результат : </string>
+
+    <string name="australia_question">Сингапур столица Австралии?</string>
+    <string name="england_question">Лондон столица Англии?</string>
+    <string name="russia_question">Питер столица России?</string>
+    <string name="usa_question">Вашингтон столица США?</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
