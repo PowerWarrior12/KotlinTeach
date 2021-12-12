@@ -19,6 +19,11 @@
     <string name="russia_question">Питер столица России?</string>
     <string name="usa_question">Вашингтон столица США?</string>
 
+    <string name="warning_text">Вы уверенны что хотите сделать это?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Подсказка!</string>
+    <string name="judgment_toast">Подсматривать - это плохо.</string>
+
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>

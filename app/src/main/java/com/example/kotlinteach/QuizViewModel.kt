@@ -14,6 +14,8 @@ class QuizViewModel : ViewModel(){
 
     var currentIndex = 0
 
+    var isCheater = Array<Boolean>(questionBank.size) { false }
+
     private var currentCountAnswers = 0
 
     private var checkQuestionAnswerArray = Array<Boolean?>( questionBank.size) { null }
